@@ -1,0 +1,7 @@
+git clone (ip address)
+git status
+git add (file name)
+git commit -m "type hear to search"
+git push origin
+git checkout
+
